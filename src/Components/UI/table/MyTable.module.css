@@ -1,0 +1,17 @@
+.myTable {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+}
+
+.calc-div {
+    display: table;
+    margin: 0 auto;
+}

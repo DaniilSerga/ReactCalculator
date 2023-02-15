@@ -1,0 +1,15 @@
+.clear-output {
+    background-color:red;
+    color: white;
+    height: 100%; 
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.clear-output:hover {
+    background-color: rgb(212, 1, 1);
+    color: rgb(216, 216, 216);
+    transition: 0.3s;
+}
